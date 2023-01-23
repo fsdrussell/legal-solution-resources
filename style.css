@@ -1,4 +1,10 @@
+:root{
+
+    --bs-body-font-family: font-family: 'EB Garamond', serif;
+   
+   
+}
 .legal-btn-color{
-background-color: rgba(182, 140, 90, 1) 
+background-color: rgba(182, 140, 90, 1)
 
 }
