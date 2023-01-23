@@ -8,3 +8,22 @@
 background-color: rgba(182, 140, 90, 1)
 
 }
+.vl {
+  border-left: 1px solid rgb(64, 65, 64);
+  height: 350px;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+  bottom: 0;
+}
+.carousel-inner img {
+    width: 75;
+    height: 500px;
+  
+}
+.my-text {
+    color: white;
+}
+
+
+  
