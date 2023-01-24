@@ -17,13 +17,18 @@ background-color: rgba(182, 140, 90, 1)
   bottom: 0;
 }
 .carousel-inner img {
-    width: 75;
-    height: 500px;
+    height: 400px;
   
 }
 .my-text {
     color: white;
 }
+.carousel-control-prev-icon{
+    background-color: rgb(34, 30, 30);
+}
+.carousel-control-next-icon{
+    background-color: rgb(34, 30, 30);
+}
 
 
-  
+
